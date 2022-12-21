@@ -1,0 +1,58 @@
+{
+    "about":{
+        "heading":"About Us",
+        "content":"About us some random text. responsive, mobile-first projects on the web. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    "founders":[
+        {
+            "founder":"Shahrukh",
+            "about":"Some description about founder"
+        },
+        {
+            "founder":"Charlee",
+            "about":"Some description about charlee"
+        },
+        {
+            "founder":"Yogesh",
+            "about":"Some description about yogesh"
+        },
+        {
+            "founder":"Tejas",
+            "about":"Some description about tejas"
+        }
+    ],
+    "home":{
+        "images":[
+            {"url":"assets/slider04.jpg"},
+            {"url":"assets/slider04.jpg"},
+            {"url":"assets/slider04.jpg"},
+            {"url":"assets/slider04.jpg"}
+        ]
+    },
+    "links":[
+        {
+            "text":"About Us",
+            "url":"/about"
+        },
+        {
+            "text":"My Acccounts",
+            "url":"#"
+        },
+        {
+            "text":"Register",
+            "url":"#"
+        },
+        {
+            "text":"Settings",
+            "url":"#"
+        },
+        {
+            "text":"Login",
+            "turlext":"/login"
+        },
+        {
+            "text":"Logout",
+            "url":"/logout"
+        }
+    ]
+}
